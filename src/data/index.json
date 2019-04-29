@@ -43,10 +43,10 @@
         "email": "moneysaving@lapsed.co.uk"
       },
       "payments": [
-        { "period": 0, "date": "2018-12-22", "amount": 0, "principal": 490000.00 }
-        { "period": 0, "date": "2019-01-11", "amount": 25906.84, "principal": 473893.16 }
-        { "period": 0, "date": "2019-02-11", "amount": 25906.84, "principal": 457464.19 }
-        { "period": 0, "date": "2019-03-11", "amount": 25906.84, "principal": 440706.63 }
+        { "period": 0, "date": "2018-12-22", "amount": 0, "principal": 490000.00 },
+        { "period": 0, "date": "2019-01-11", "amount": 25906.84, "principal": 473893.16 },
+        { "period": 0, "date": "2019-02-11", "amount": 25906.84, "principal": 457464.19 },
+        { "period": 0, "date": "2019-03-11", "amount": 25906.84, "principal": 440706.63 },
         { "period": 0, "date": "2019-04-11", "amount": 25906.84, "principal": 423613.93 }
       ]
     },
@@ -64,30 +64,30 @@
         "email": "morningless@disrelated.org"
       },
       "payments": [
-        { "period": 0, "date": "2016-02-25", "amount": 0, "principal": 2700000.00 }
-        { "period": 1, "date": "2016-03-11", "amount": 140071.02, "principal": 2609428.98 }
-        { "period": 2, "date": "2016-04-11", "amount": 140071.02, "principal": 2517197.5 }
-        { "period": 3, "date": "2016-05-11", "amount": 140071.02, "principal": 2423275.1 }
-        { "period": 4, "date": "2016-06-11", "amount": 140071.02, "principal": 2327630.79 }
-        { "period": 5, "date": "2016-07-11", "amount": 140071.02, "principal": 2230233 }
-        { "period": 6, "date": "2016-08-11", "amount": 140071.02, "principal": 2131049.59 }
-        { "period": 7, "date": "2016-09-11", "amount": 140071.02, "principal": 2030047.82 }
-        { "period": 8, "date": "2016-10-11", "amount": 140071.02, "principal": 1927194.34 }
-        { "period": 9, "date": "2016-11-11", "amount": 140071.02, "principal": 1822455.22 }
-        { "period": 10, "date": "2016-12-11", "amount": 140071.02, "principal": 1715795.88 }
-        { "period": 11, "date": "2017-01-11", "amount": 140071.02, "principal": 1607181.12 }
-        { "period": 12, "date": "2017-02-11", "amount": 140071.02, "principal": 1496575.09 }
-        { "period": 13, "date": "2017-03-11", "amount": 140071.02, "principal": 1383941.28 }
-        { "period": 14, "date": "2017-04-11", "amount": 140071.02, "principal": 1269242.52 }
-        { "period": 15, "date": "2017-05-11", "amount": 140071.02, "principal": 1152440.95 }
-        { "period": 16, "date": "2017-06-11", "amount": 140071.02, "principal": 1033498.02 }
-        { "period": 17, "date": "2017-07-11", "amount": 140071.02, "principal": 912374.47 }
-        { "period": 18, "date": "2017-08-11", "amount": 140071.02, "principal": 789030.31 }
-        { "period": 19, "date": "2017-09-11", "amount": 140071.02, "principal": 663424.85 }
-        { "period": 20, "date": "2017-10-11", "amount": 140071.02, "principal": 535516.62 }
-        { "period": 21, "date": "2017-11-11", "amount": 140071.02, "principal": 405263.41 }
-        { "period": 22, "date": "2017-12-11", "amount": 140071.02, "principal": 272622.22 }
-        { "period": 23, "date": "2018-01-11", "amount": 140071.02, "principal": 137549.28 }
+        { "period": 0, "date": "2016-02-25", "amount": 0, "principal": 2700000.00 },
+        { "period": 1, "date": "2016-03-11", "amount": 140071.02, "principal": 2609428.98 },
+        { "period": 2, "date": "2016-04-11", "amount": 140071.02, "principal": 2517197.5 },
+        { "period": 3, "date": "2016-05-11", "amount": 140071.02, "principal": 2423275.1 },
+        { "period": 4, "date": "2016-06-11", "amount": 140071.02, "principal": 2327630.79 },
+        { "period": 5, "date": "2016-07-11", "amount": 140071.02, "principal": 2230233 },
+        { "period": 6, "date": "2016-08-11", "amount": 140071.02, "principal": 2131049.59 },
+        { "period": 7, "date": "2016-09-11", "amount": 140071.02, "principal": 2030047.82 },
+        { "period": 8, "date": "2016-10-11", "amount": 140071.02, "principal": 1927194.34 },
+        { "period": 9, "date": "2016-11-11", "amount": 140071.02, "principal": 1822455.22 },
+        { "period": 10, "date": "2016-12-11", "amount": 140071.02, "principal": 1715795.88 },
+        { "period": 11, "date": "2017-01-11", "amount": 140071.02, "principal": 1607181.12 },
+        { "period": 12, "date": "2017-02-11", "amount": 140071.02, "principal": 1496575.09 },
+        { "period": 13, "date": "2017-03-11", "amount": 140071.02, "principal": 1383941.28 },
+        { "period": 14, "date": "2017-04-11", "amount": 140071.02, "principal": 1269242.52 },
+        { "period": 15, "date": "2017-05-11", "amount": 140071.02, "principal": 1152440.95 },
+        { "period": 16, "date": "2017-06-11", "amount": 140071.02, "principal": 1033498.02 },
+        { "period": 17, "date": "2017-07-11", "amount": 140071.02, "principal": 912374.47 },
+        { "period": 18, "date": "2017-08-11", "amount": 140071.02, "principal": 789030.31 },
+        { "period": 19, "date": "2017-09-11", "amount": 140071.02, "principal": 663424.85 },
+        { "period": 20, "date": "2017-10-11", "amount": 140071.02, "principal": 535516.62 },
+        { "period": 21, "date": "2017-11-11", "amount": 140071.02, "principal": 405263.41 },
+        { "period": 22, "date": "2017-12-11", "amount": 140071.02, "principal": 272622.22 },
+        { "period": 23, "date": "2018-01-11", "amount": 140071.02, "principal": 137549.28 },
         { "period": 24, "date": "2018-02-11", "amount": 140071.02, "principal": 0 }
       ]
     },
@@ -120,7 +120,7 @@
         "email": "droughtiness@horsing.co.uk"
       },
       "payments": [
-        { "period": 0, "date": "2016-02-25", "amount": 0, "principal": 37000000 }
+        { "period": 0, "date": "2016-02-25", "amount": 0, "principal": 37000000 },
         { "period": 1, "date": "2016-03-11", "amount": 1847191.77, "principal": 35707808.23 }
       ]
     },
@@ -198,6 +198,6 @@
         "email": "cantboard@stinkardly.org"
       },
       "payments": []
-    },
+    }
   ]
 }
