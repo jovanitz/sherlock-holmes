@@ -1,14 +1,15 @@
+// Libraries
 import React from 'react';
-import logo from './logo.svg';
+
+// Components
+import LoanList from './components/LoanList';
+
+// Other
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-    </div>
+    <LoanList />
   );
 }
 
