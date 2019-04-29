@@ -1,4 +1,4 @@
-{
+const data = {
   "loans": [
     {
       "id": "CJ00A1",
@@ -57,7 +57,7 @@
       "interest_rate": 0.22,
       "start_date": "2016-02-25",
       "term_months": 12,
-      "status": "on-time",
+      "status": "completed",
       "customer": {
         "name": "Aida Carruba",
         "score": 547,
@@ -201,3 +201,5 @@
     }
   ]
 }
+
+export default data;
