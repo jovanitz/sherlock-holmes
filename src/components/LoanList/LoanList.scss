@@ -1,0 +1,109 @@
+$green: #60cf80;
+$gray: #a0a0a0;
+$blue: #3e3a46;
+$green-status: #d2f0cf;
+$green-status-dark: #21882b;
+$yellow-status: #f0eecf;
+$yellow-status-dark: #c98201;
+$orange-status: #ffdec2;
+$orange-status-dark: #dc5e31;
+$red-status: #ffd5d5;
+$red-status-dark: #bf3716;
+
+.LoanList {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+    &__title {
+        color: $green;
+        font-size: 24px;
+        font-weight: 600;
+        width: 100%;
+        margin: 13px 48px;
+    }
+
+    &__header {
+        display: flex;
+        margin: 12px 24px 0;
+        width: 100%;
+    }
+
+    &__content {
+        display: flex;
+        border-radius: 6px;
+        box-shadow: 0 6px 15px 0 rgba(212, 220, 226, 0.5), 0 2px 13px -3px rgba(230, 241, 254, 0.5);
+        margin: 13px 24px;
+        width: 100%;
+    }
+}
+
+.LoanList-header {
+    &__item {
+        color: $gray;
+        font-size: 14px;
+        font-weight: 500;
+        width: 25%;
+        margin: 13px 24px;
+    }
+}
+
+.LoanList-content-item {
+    margin: 24px;
+    width: 25%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    &__name {
+        font-size: 18px;
+        font-weight: 600;
+        font-style: normal;
+        font-stretch: normal;
+        margin-bottom: 6px;
+        width: 100%;
+    }
+
+    &__description {
+        font-weight: 500;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: 1px;
+        color: #4585c4;
+        width: 100%;
+    }
+}
+
+.LoanList-status {
+    padding: 9px 15px;
+    border-radius: 17.5px;
+    font-weight: bold;
+
+    &--red {
+        background-color: $red-status;
+        color: $red-status-dark;
+    }
+
+    &--green {
+        background-color: $green-status;
+        color: $green-status-dark;
+    }
+
+    &--yellow {
+        background-color: $yellow-status;
+        color: $yellow-status-dark;
+    }
+
+    &--orange {
+        background-color: $orange-status;
+        color: $orange-status-dark;
+    }
+}
+
+/* ----- HELPERS ----- */
+
+.align-right {
+    text-align: right;
+    justify-content: flex-end;
+}
